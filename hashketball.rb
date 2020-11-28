@@ -1,8 +1,8 @@
 def game_hash
   {
     home: {
-    team_name: "Broo"
-    colors:
+    team_name: "Brooklyn Nets"
+    colors: 
     players: [
       {player name: ,
         number: ,
